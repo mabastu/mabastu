@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mabast
+### Hello 👋 I'm Mabast
 
 - 🧑🏻‍💻 Self taught iOS Developer
 - 🎓 I have bachelor degree in Computer Science
