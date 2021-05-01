@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 Self taught iOS Developer
 - 🎓 I have bachelor degree in Computer Science
 - 🔭 I’m currently working on my own project.
-- 🌱 I’m currently learning the new SwiftUI framework
+- 🌱 I’m Still learning Swift
 - 💬 Ask me about anything related to Swift, and happy to help as much as I can.
 - 📫 You can reach me via: mabastu@yahoo.com
 
