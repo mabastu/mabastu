@@ -6,11 +6,8 @@
 - 💬 Ask me about anything related to Swift, I'll be happy to help as much as I can.
 - 📫 You can reach me via: mabastu@yahoo.com
 
-![Mabast's github stats](https://github-readme-stats.vercel.app/api?username=mabastu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mabastu&label=Profile%20views&color=0e75b6&style=flat" alt="mabastu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mabastu" target="blank"><img src="https://img.shields.io/twitter/follow/mabastu?logo=twitter&style=for-the-badge" alt="mabastu" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mabastu&label=Profile%20views&color=0e75b6&style=flat" alt="mabastu" /> </p> <p align="left"> <a href="https://twitter.com/mabastu" target="blank"><img src="https://img.shields.io/twitter/follow/mabastu?logo=twitter&style=for-the-badge" alt="mabastu" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
