@@ -4,7 +4,7 @@
 - 🎓 I have bachelor degree in Computer Science
 - 🌱 I’m Still learning Swift and iOS Development
 - 💬 Ask me about anything related to Swift, I'll be happy to help as much as I can.
-- 📫 You can reach me via: mabastu@yahoo.com
+- 📫 You can reach me via: mabastu@gmail.com
 
 
 <h3 align="left">Support:</h3>
